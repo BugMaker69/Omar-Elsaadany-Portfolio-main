@@ -1,0 +1,227 @@
+{
+  "personalInfo": {
+    "name": "Omar Mohammed Elsaadany",
+    "title": "Mobile Developer",
+    "description": "I build scalable mobile applications using Flutter and Android Native with Clean Architecture and modern backend integrations.",
+    "about": "Mobile Developer with hands-on experience in Flutter and Android Native (Kotlin, Jetpack Compose).\nExperienced with Clean Architecture, MVVM, MVI, and Cubit/BLoC.\nBuilt multiple real-world mobile applications integrated with REST APIs, SQLite, and responsive UI design.",
+    "image": "assets/images/my_image.jpg",
+    "cv": "cv.pdf",
+    "github": "https://github.com/BugMaker69",
+    "linkedin": "https://www.linkedin.com/",
+    "email": "omarmohammedelsaadany@gmail.com",
+    "whatsappNumber": "+201120107040",
+    "phone": "+201120107040"
+  },
+  "stats": [
+    {
+      "title": "4+",
+      "subtitle": "Real Projects",
+      "icon": "mobileScreen"
+    },
+    {
+      "title": "1+",
+      "subtitle": "Years Experience",
+      "icon": "clockRotateLeft"
+    },
+    {
+      "title": "Multiple",
+      "subtitle": "API Integrations",
+      "icon": "database"
+    },
+    {
+      "title": "100%",
+      "subtitle": "Cross-Platform Focus",
+      "icon": "layerGroup"
+    }
+  ],
+  "services": [
+    {
+      "title": "Mobile App Development",
+      "description": "Building high-performance, cross-platform mobile applications using Flutter and Dart with clean architecture.",
+      "icon": "mobileScreenButton"
+    },
+    {
+      "title": "API & Backend Integration",
+      "description": "Seamlessly integrating REST APIs, Firebase, and Supabase to provide robust backend solutions and real-time data.",
+      "icon": "server"
+    },
+    {
+      "title": "UI/UX Implementation",
+      "description": "Translating complex designs into beautiful, responsive, and interactive user interfaces with smooth animations.",
+      "icon": "palette"
+    },
+    {
+      "title": "App Optimization",
+      "description": "Improving app performance, fixing bugs, and ensuring smooth user experiences through rigorous testing and debugging.",
+      "icon": "bolt"
+    }
+  ],
+  "expertise": [
+    { "name": "Flutter", "icon": "flutter" },
+    { "name": "Firebase", "icon": "bolt" },
+    { "name": "Clean Architecture", "icon": "layerGroup" },
+    { "name": "Dart", "icon": "code" },
+    { "name": "Cubit/BLoC", "icon": "atom" },
+    { "name": "REST APIs", "icon": "link" },
+    { "name": "Git/GitHub", "icon": "github" },
+    { "name": "App Store/Play Store", "icon": "store" },
+    { "name": "Payment Gateways", "icon": "checkDouble" },
+    { "name": "Google Maps", "icon": "link" },
+    { "name": "Push Notifications", "icon": "bolt" }
+  ],
+  "expertiseDetails": [
+    {
+      "title": "Problem Solver",
+      "desc": "Turning complex problems into elegant code.",
+      "icon": "brain"
+    },
+    {
+      "title": "Clean Code",
+      "desc": "Maintainable, scalable, and modern architectures.",
+      "icon": "checkDouble"
+    },
+    {
+      "title": "Performance",
+      "desc": "Optimized apps for smooth 60/120 FPS experience.",
+      "icon": "gaugeHigh"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Coding Instructor",
+      "company": "iSchool",
+      "period": "2025 – 2025"
+    },
+    {
+      "title": "Mobile Developer Trainee",
+      "company": "Digital Egypt Pioneers Initiative (DEPI)",
+      "period": "2024 – 2024"
+    },
+    {
+      "title": "Mobile Development Trainee",
+      "company": "Information Technology Institute (ITI)",
+      "period": "2023 – 2023"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Mishkah",
+      "description": "A comprehensive Islamic mobile application providing Quran, Hadith, prayer times, Adhkar, Qibla direction, Tafsir, Islamic library, Zakat calculator, quizzes, and personalized daily worship tools. Supports Arabic and English with audio Quran, customization options, and a user-friendly experience for daily Islamic practice.",
+      "imageUrl": "assets/images/mishkah_banner.jpg",
+      "technologies": [
+        "Flutter",
+        "REST API",
+        "SQLite",
+        "Audio Quran",
+        "Localization"
+      ],
+      "githubUrl": "https://github.com/BugMaker69/mishkah"
+    },
+    {
+      "title": "DropZ",
+      "description": "Flutter-based e-commerce and delivery app allowing users to browse products, place orders, and track deliveries in real time with secure checkout and notifications.",
+      "imageUrl": "assets/images/dropz_banner.jpg",
+      "technologies": [
+        "Flutter",
+        "Cubit",
+        "REST API",
+        "SQLite",
+        "Clean Architecture"
+      ],
+      "githubUrl": "https://github.com/BugMaker69/DropZ"
+    },
+    {
+      "title": "ServFix",
+      "description": "Graduation project built using Kotlin. A platform connecting users with skilled service providers such as carpenters, electricians, and technicians with booking, provider profiles, ratings, and real-time availability.",
+      "imageUrl": "assets/images/servfix_banner.jpg",
+      "technologies": [
+        "Kotlin",
+        "Jetpack Compose",
+        "REST API",
+        "MVVM",
+        "Clean Architecture"
+      ],
+      "githubUrl": "https://github.com/BugMaker69/Servfix-App"
+    },
+    {
+      "title": "Fit Track",
+      "description": "Fitness tracking application that helps users monitor workouts, create personalized workout plans, track progress analytics, and set reminders.",
+      "imageUrl": "assets/images/fittrack_banner.jpg",
+      "technologies": ["Flutter", "Cubit", "Analytics", "Responsive UI"],
+      "githubUrl": "https://github.com/BugMaker69/Fit-Track"
+    },
+    {
+      "title": "Cinema App",
+      "description": "Movie browsing and ticket reservation application where users can view current and upcoming movies, reserve tickets, buy snacks, and manage a watchlist.",
+      "imageUrl": "assets/images/cinema_banner.jpg",
+      "technologies": ["Kotlin", "REST API", "SQLite", "State Management"],
+      "githubUrl": "https://github.com/BugMaker69/CinemaApp"
+    }
+  ],
+  "certificates": [
+    {
+      "title": "Software Development - Mobile App Development",
+      "platform": "DEPI",
+      "date": "2024",
+      "icon": "mobileButton"
+    },
+    {
+      "title": "Mobile Development",
+      "platform": "ITI",
+      "date": "2023",
+      "icon": "layerGroup"
+    },
+    {
+      "title": "Mahara Tech Mobile Development",
+      "platform": "Mahara Tech",
+      "date": "2023",
+      "icon": "code"
+    },
+    {
+      "title": "Orange Digital Center",
+      "platform": "ODC",
+      "date": "2023",
+      "icon": "laptopCode"
+    }
+  ],
+  "techStack": [
+    {
+      "title": "Mobile Development",
+      "icon": "mobileScreen",
+      "skills": [
+        "Flutter & Dart Expert",
+        "Clean Architecture & MVVM",
+        "Bloc / Cubit State Management",
+        "Advanced UI & Animations",
+        "Payment Gateways Integration",
+        "Google Maps & Location Services",
+        "Push Notifications & FCM"
+      ]
+    },
+    {
+      "title": "Backend & APIs",
+      "icon": "server",
+      "skills": [
+        "RESTful API & Postman",
+        "Firebase (Auth & Firestore)",
+        "Supabase Development"
+      ]
+    },
+    {
+      "title": "Software Engineering",
+      "icon": "code",
+      "skills": [
+        "Git & GitHub Collaboration",
+        "OOP & Design Patterns",
+        "Data Structures & Algorithms",
+        "Performance & Debugging",
+        "AI-Assisted Development"
+      ]
+    },
+    {
+      "title": "Data & Local Storage",
+      "icon": "database",
+      "skills": ["Hive & SQLite", "SharedPreferences", "Flutter Secure Storage"]
+    }
+  ]
+}
