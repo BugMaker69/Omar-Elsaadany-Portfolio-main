@@ -23918,7 +23918,7 @@ $S:1}
 A.agz.prototype={
 $1(a){var s=A.cN().b
 s=s==null?null:s.canvasKitBaseUrl
-return(s==null?"https://www.gstatic.com/flutter-canvaskit/425cfb54d01a9472b3e81d9e76fd63a4a44cfbcb/":s)+a},
+return(s==null?"https://www.gstatic.com/flutter-canvaskit/e4b8dca3f1b4ede4c30371002441c88c12187ed6/":s)+a},
 $S:78}
 A.Gt.prototype={
 gt(a){var s=this.a
