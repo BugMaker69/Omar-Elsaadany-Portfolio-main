@@ -47,7 +47,7 @@ assets/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/BugMaker69/Omar-Elsaadany-Portfolio.git
+git clone https://github.com/BugMaker69/Omar-Elsaadany-Portfolio-main.git
 cd your-repo
 ```
 
@@ -108,8 +108,8 @@ flutter run
 
 ## 🔗 Links
 
-- 🌐 Live Portfolio: (https://lnkd.in/dma8_XjS)
-- 💻 Source Code: (https://lnkd.in/df48A6ik) 
+- 🌐 Live Portfolio: ([Omar Elsaadany](https://bugmaker69.github.io/Omar-Elsaadany-Portfolio-main/))
+- 💻 Source Code: ([Repo](https://github.com/BugMaker69/Omar-Elsaadany-Portfolio-main/)) 
 
 ---
 
@@ -131,8 +131,8 @@ Feel free to fork the repo and submit a pull request.
 
 ## 📬 Contact
 
-- LinkedIn: https://linkedin.com/in/mohamed-ali-khamis 
-- Email: omarmohammedelsaadany.d2002@gmail.com  
+- LinkedIn: https://linkedin.com/in/omar-elsaadany2002 
+- Email: omarmohammedelsaadany@gmail.com  
 
 ---
 
